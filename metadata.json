@@ -1,0 +1,5 @@
+{
+  "name": "IroCheck: アクセシビリティ・カラーチェッカー",
+  "description": "推し色をアクセシブルに。WCAG基準のコントラスト比チェックと自動調整ツール。",
+  "requestFramePermissions": []
+}
